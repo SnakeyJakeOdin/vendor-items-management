@@ -1,0 +1,19 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: "import java.util.Scanner; \n\npublic class Main { \n\n    // This function\
+    \ takes a string as input and returns the same string, but formatted as a comment.\n\
+    \    public static String comment(String str) {\n\n        // Your code goes here.\n\
+    \n    }\n\n    public static void main(String[] args) { \n\n        Scanner scanner\
+    \ = new Scanner(System.in); \n\n        // Get the user's input here.\n      \
+    \  String input = scanner.nextLine();\n\n        // Call your function and print\
+    \ the result.\n\n        scanner.close();\n\n    } \n\n}"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/43167#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 01 Mar 2024 06:50:03 UTC"
+record: -1
+submission_language: java17

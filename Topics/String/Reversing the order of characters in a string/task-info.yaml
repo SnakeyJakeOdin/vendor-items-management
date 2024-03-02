@@ -1,0 +1,26 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              // Create a new Scanner object to read input from the console
+              Scanner scanner = new Scanner(System.in);
+      
+              // Read the input string
+              String input = scanner.nextLine();
+      
+              // TODO: Write a function to reverse the input string and print it
+      
+              // Close the scanner object to prevent memory leaks
+              scanner.close();
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/43419#comment
+status: Unchecked
+record: -1
+submission_language: java17

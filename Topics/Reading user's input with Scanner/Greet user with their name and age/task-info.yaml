@@ -1,0 +1,26 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              // Initialize the Scanner object to receive user input
+              Scanner sc = new Scanner(System.in);
+      
+              // Write your code for receiving user's name and age here.
+      
+              // Print the message using the user's name and age.
+      
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/42957#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 01 Mar 2024 07:07:26 UTC"
+record: -1
+submission_language: java17

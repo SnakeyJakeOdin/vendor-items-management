@@ -1,0 +1,33 @@
+# Project exclude paths
+/.gradle/
+/My First Project with Java/task/build/
+/My First Project with Java/task/out/
+/My First Project with Java/task/out/production/classes/
+/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number/out/
+/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number/out/production/classes/
+/Topics/Comments/Adding comments to input strings/out/
+/Topics/Comments/Adding comments to input strings/out/production/classes/
+/Topics/Comments/Printing only the longest line/out/
+/Topics/Comments/Printing only the longest line/out/production/classes/
+/Topics/Comments/Uncomment a line/out/
+/Topics/Comments/Uncomment a line/out/production/classes/
+/Topics/Formatted output/Job simulation/out/
+/Topics/Formatted output/Job simulation/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Integer types and operations/Arithmetic expression/out/
+/Topics/Integer types and operations/Arithmetic expression/out/production/classes/
+/Topics/Integer types and operations/Computing the remainder and its triple/out/
+/Topics/Integer types and operations/Computing the remainder and its triple/out/production/classes/
+/Topics/Integer types and operations/Tens digit/out/
+/Topics/Integer types and operations/Tens digit/out/production/classes/
+/Topics/Reading user's input with Scanner/Greet user with their name and age/out/
+/Topics/Reading user's input with Scanner/Greet user with their name and age/out/production/classes/
+/Topics/Reading user's input with Scanner/Printing strings in the same order/out/
+/Topics/Reading user's input with Scanner/Printing strings in the same order/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
+/Topics/Types and variables/Fill the declaration/out/
+/Topics/Types and variables/Fill the declaration/out/production/classes/
+/Topics/Types and variables/Invalid declaration of variables/out/
+/Topics/Types and variables/Invalid declaration of variables/out/production/classes/

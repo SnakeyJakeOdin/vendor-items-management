@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/test-results" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Code style for a project" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Code with style issues" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Fixing a scrambled 'Hello, World!' program" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Indentation" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Print the print statement" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Reverse every word in an input string" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/The number of spaces" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Adding comments to input strings" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Alternative code" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Factorial Finder" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Groups of comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Printing only the longest line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncomment a line" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Formatting Long Sentences" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Integer Formatting" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Job simulation" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Big numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Calculate the digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Computing the remainder and its triple" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Direct input" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Greet user with their name and age" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Reading a number" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Understanding System.in" />
+            <option value="$PROJECT_DIR$/Topics/String/ Hello  string" />
+            <option value="$PROJECT_DIR$/Topics/String/Calling basic methods" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a character" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a specific character from a greeting message" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Topics/String/Reversing the order of characters in a string" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Invalid declaration of variables" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/The assignment operator" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
